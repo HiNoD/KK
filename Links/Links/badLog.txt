@@ -1,0 +1,11 @@
+http://links.testingcourse.ru/javascript:alert(  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page12.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page13.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/image.jpg  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/tel:88001112233  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page11.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/trololo  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page15.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page16.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page17.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.

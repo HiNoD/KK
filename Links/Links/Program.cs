@@ -249,7 +249,7 @@ namespace Links
     {
         static void Main(string[] args)
         {
-            string url = "http://www.grouple.ru";//args[0];
+            string url = args[0];
             string statusCode = Url.GetStatusCodeForConnectToUrl(Url.GetCorrectStartUrl(url));
             if (statusCode == "OK")
             {

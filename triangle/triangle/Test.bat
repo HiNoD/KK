@@ -1,28 +1,28 @@
 SET program="%1"
-if %program% == "" goto err
+if %program% == "traingle.exe" goto err
 
 echo Test1
-triangle.exe %TEMP%\3 3 3
+triangle.exe 3 3 3
 if ERRORLEVEL 1 goto testFailed
 
 echo Test3
-triangle.exe %TEMP%\4 5 6
+triangle.exe 4 5 6
 if ERRORLEVEL 1 goto testFailed
 
 echo Test4
-triangle.exe %TEMP%\5 5 10
+triangle.exe 5 5 7
 if ERRORLEVEL 1 goto testFailed
 
 echo Test5
-triangle.exe %TEMP%\0 0 0
+triangle.exe 0 0 0
 if ERRORLEVEL 1 goto testFailed
 
 echo Test6
-triangle.exe %TEMP%\4 3 10
+triangle.exe 4 3 10
 if ERRORLEVEL 1 goto testFailed
 
 echo Test7
-triangle.exe %TEMP%\0.99 1.1 0.55
+triangle.exe 0.99 1.1 0.55
 if ERRORLEVEL 1 goto testFailed
 
 echo Programm testing succeeded

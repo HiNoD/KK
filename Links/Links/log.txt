@@ -1,0 +1,30 @@
+http://links.testingcourse.ru/page1.html  -  OK
+http://links.testingcourse.ru/javascript:alert(  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page2.html  -  OK
+http://www.yandex.ru  -  OK
+http://links.testingcourse.ru/./page1.html  -  OK
+http://links.testingcourse.ru/index.html  -  OK
+http://links.testingcourse.ru/page3.html  -  OK
+http://links.testingcourse.ru/page.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page5.html  -  OK
+http://links.testingcourse.ru/page4.html  -  OK
+http://links.testingcourse.ru/page6.html  -  OK
+http://links.testingcourse.ru  -  OK
+http://links.testingcourse.ru#//#  -  OK
+http://volgatech.net  -  OK
+http://links.testingcourse.ru/page7.html  -  OK
+http://links.testingcourse.ru//  -  OK
+http://links.testingcourse.ru/page12.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page13.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/termopasta.png  -  OK
+http://links.testingcourse.ru/page8.html  -  OK
+http://links.testingcourse.ru/image.jpg  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/tel:88001112233  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page9.html  -  OK
+http://links.testingcourse.ru/page10.html  -  OK
+http://links.testingcourse.ru/page11.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/trololo  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://www.google.com  -  OK
+http://links.testingcourse.ru/page15.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page16.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
+http://links.testingcourse.ru/page17.html  -  Удаленный сервер возвратил ошибку: (404) Не найден.
